@@ -16,7 +16,7 @@ class App extends React.Component{
           headerText:"NAME IT...!",
           headerExpanded: true,
           suggestedNames : [],
-    };
+
 
   }
 
